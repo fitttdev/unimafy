@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @unimafy
-- 👀 I’m interested in backend engineering, networking, quantum physics.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, I'm **Nima Yonten**!
+I'm a software developer with experience in Ruby, Ruby on Rails, and some Javascript. I'm passionate about building high-quality software using microservices architecture and event-driven architecture with CQRS.
 
-<!---
-unimafy/unimafy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Technology Stack**
+  1. Ruby
+  2. Ruby on Rails
+  3. JavaScript
+  4. Microservices Architecture
+  5. Event-driven Architecture with CQRS
+
+**What I'm Up To**
+Currently, I'm exploring new technologies and learning new skills to stay up-to-date with the latest trends in the industry. 
+I believe that the key to success in software development is to always be learning, growing, and improving.
