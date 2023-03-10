@@ -6,7 +6,7 @@ I'm a software developer with experience in Ruby, Ruby on Rails, and some Javasc
   2. Ruby on Rails
   3. JavaScript
   4. Microservices Architecture
-  5. Event-driven Architecture with CQRS
+  5. CQRS & Event Sourcing
 
 **What I'm Up To**
 Currently, I'm exploring new technologies and learning new skills to stay up-to-date with the latest trends in the industry. 
