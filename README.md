@@ -1,6 +1,5 @@
 Hi there, I'm **Nima Yonten**!
-I'm a software developer with experience in Ruby, Ruby on Rails, and some Javascript. I'm passionate about building high-quality software using microservices architecture and event-driven architecture with CQRS.
-
+I'm a software developer with experience in Ruby, Ruby on Rails and every once in a while, I watch a very advanced programming to remind myself of the things I don't know. 
 **Technology Stack**
   1. Ruby
   2. Ruby on Rails
