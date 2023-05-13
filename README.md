@@ -9,6 +9,9 @@ I'm a software developer with experience in Ruby, Ruby on Rails and every once i
   4. Microservices Architecture
   5. CQRS & Event Sourcing
 
-**What I'm Up To**
-Currently, I'm exploring new technologies and learning new skills to stay up-to-date with the latest trends in the industry. 
-I believe that the key to success in software development is to always be learning, growing, and improving.
+**Hot Take**
+
+How you use the tool will greatly effect your opinions about it and result it
+yields. You cannot complain that using a sledge hammer in place of a nail 
+hammer is tool much effort. Obviously, you can be a big fan of slege hammer 
+and use it for everything and dunk on the nail hammer community.
